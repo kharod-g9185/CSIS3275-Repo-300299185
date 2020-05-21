@@ -32,14 +32,5 @@ public class GurmukhKharodAppTester {
 		}
 		return total;
 	}
-	
-	/*
-	 * This comment section related to the branch b1.
-	 * These comments were added in b1.
-	 * Gurmukh Kharod
-	 * May 20, 2020
-	 * 
-	 * Software Engineering Lab 2
-	 */
 
 }
