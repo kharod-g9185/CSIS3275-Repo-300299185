@@ -1,0 +1,2 @@
+Here is some text related to lab3 for CSIS 3275.
+This file will be pushed up to github.
